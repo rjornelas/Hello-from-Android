@@ -56,13 +56,13 @@
         android:hint="Confirm Password"
         android:inputType="textPassword" />
 
-    <RadioButton
+    <CheckBox
         android:id="@+id/rd_newsLetter"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Receive NewsLetter" />
 
-    <RadioButton
+    <CheckBox
         android:id="@+id/rd_contract"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
